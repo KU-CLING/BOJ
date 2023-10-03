@@ -23,7 +23,7 @@
 ## 👥Members
 
 * 🧸**Seonah** 
-  * <img src ="https://cdn-icons-png.flaticon.com/512/25/25231.png" width=25px>[github](https://github.com/linea77)
+  * <img src ="https://cdn-icons-png.flaticon.com/512/25/25231.png" width=20px>[github](https://github.com/linea77)
   * 💬Language : Python, C
 
 
