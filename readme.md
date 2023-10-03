@@ -6,34 +6,29 @@
     </p>
     </div>    
 
-
-
----
-
 **🔖Contents**
 
 * [👥Members](##👥Members)
 * [🚩Goals](##🚩Goals)
 * [📌Rules](##📌Rules)
 
----
-
+<br>
 
 
 ## 👥Members
 
 * 🧸**Seonah** 
-  * <img src ="https://cdn-icons-png.flaticon.com/512/25/25231.png" width=20px>[github](https://github.com/linea77)
-  * 💬Language : Python, C
+  * github : <a src="https://github.com/linea77"><img src ="https://cdn-icons-png.flaticon.com/512/25/25231.png" width=13px> linea77</a>
+  * language : Python, C
+<br>
 
-
-
+           
 ## 🚩Goals
 
 * 알고리즘 문제 풀이 기초체력 키우기
 * Git / Github 사용 연습
 
-
+<br>
 
 ## 📌 Rules
 
