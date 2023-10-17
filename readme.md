@@ -22,6 +22,10 @@
   * language : Python, C
 <br>
 
+* **Jiwoo**
+  * github : ljw0o
+  * language : Python
+
            
 ## 🚩Goals
 
