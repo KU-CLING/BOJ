@@ -22,7 +22,7 @@
   * language : Python, C
 <br>
 
-* **Jiwoo**
+* 🐯**Jiwoo**
   * github : ljw0o
   * language : Python
 <br>
