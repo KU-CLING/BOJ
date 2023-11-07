@@ -44,6 +44,10 @@
   * language : Python, C++
 
   <br>
+
+- **Jongbin-kr**
+  - github: [Jongbin-kr](https://github.com/Jongbin-kr)
+  - language: Python, C++
   
 ## 🚩Goals
 
