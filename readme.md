@@ -38,6 +38,12 @@
   * language : Python
 
   <br>
+
+* 🐈**wjddk314**
+  * github : <a scr="https://github.com/wjddk314"><img src ="https://cdn-icons-png.flaticon.com/512/25/25231.png" width=13px> wjddk314</a>
+  * language : Python, C++
+
+  <br>
   
 ## 🚩Goals
 
