@@ -45,6 +45,12 @@
 
   <br>
 
+- **Seunghyuk**
+  - github: [candlevillain](https://github.com/Jongbin-kr)
+  - language: Python, C, R
+  
+  <br>
+
 - **Jongbin-kr**
   - github: [Jongbin-kr](https://github.com/Jongbin-kr)
   - language: Python, C++
