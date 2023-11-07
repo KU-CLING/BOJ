@@ -55,6 +55,14 @@
   - github: [Jongbin-kr](https://github.com/Jongbin-kr)
   - language: Python, C++
   
+  <br>
+
+* 🏋️‍♀️**Shincw**
+  * github : <a scr="https://github.com/Shincw"><img src ="https://cdn-icons-png.flaticon.com/512/25/25231.png" width=13px> Shincw</a>
+  * language : C, Python
+
+  <br>
+
 ## 🚩Goals
 
 * 알고리즘 문제 풀이 기초체력 키우기
