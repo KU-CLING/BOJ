@@ -30,6 +30,13 @@
 * 🧸**Sunhye**
   * github : <a src="https://github.com/Dogseone04"><img src ="https://mblogthumb-phinf.pstatic.net/MjAyMDEyMTFfMTQ3/MDAxNjA3NjcxMTM3OTQ2.VjfAdnuFgdTWZjhmoFDO5kBDbVAzOis12JlVmfM-f7Eg.lKuaV1awR695hajN9u519T3KOKo2OinXM9sGgZj1eL0g.JPEG.subak137/20201129%EF%BC%BF153137.jpg?type=w800" width=13px> Dogseone04</a>
   * language : Python, C#  
+
+<br>
+
+* 🧸**Eunjae**
+  * github : <a scr="https://github.com/en0226"><img src ="https://cdn-icons-png.flaticon.com/512/25/25231.png" width=13px> en0226</a>
+  * language : Python,
+
   <br>
   
 ## 🚩Goals
