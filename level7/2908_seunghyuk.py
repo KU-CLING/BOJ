@@ -1,0 +1,5 @@
+A, B = input().split()
+rev_A = int(''.join(reversed(A)))
+rev_B = int(''.join(reversed(B)))
+if rev_A>rev_B: print(rev_A)
+else: print(rev_B)
