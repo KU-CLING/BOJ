@@ -27,8 +27,6 @@ def rep_2times(text):
     return 1;    
     
 
-
-
 while True:
     txt = stdin.readline().rstrip()
     if txt == 'end':
